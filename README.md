@@ -1,6 +1,6 @@
 # M&M Professional Cleaning Services Website
 
-Updated version includes email and social media links.
+Updated version includes email, social media links, and an English/Spanish language selector.
 
 Contact:
 - Phone: 423-580-7240
