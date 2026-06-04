@@ -1,15 +1,12 @@
 # M&M Professional Cleaning Services Website
 
-Upload the contents of this folder to your GitHub repository, not the ZIP file itself.
+Updated version includes email and social media links.
 
-Required files:
-- index.html
-- style.css
-- images folder
+Contact:
+- Phone: 423-580-7240
+- Email: mindie@mmpfcs.com
+- Facebook: https://facebook.com/mmprofessionalcleaningservices
+- Instagram: https://instagram.com/MMPROFESSIONALCLEANINGSERVICE
+- TikTok: https://www.tiktok.com/@mmpfcs
 
-GitHub Pages settings:
-- Source: Deploy from a branch
-- Branch: main
-- Folder: / (root)
-
-Quote form is connected through FormSubmit to mindie@mmpfcs.com.
+Upload the contents of this folder to GitHub Pages.
