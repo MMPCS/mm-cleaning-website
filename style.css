@@ -21,3 +21,9 @@
 .sr-only{position:absolute;width:1px;height:1px;padding:0;margin:-1px;overflow:hidden;clip:rect(0,0,0,0);white-space:nowrap;border:0}
 @media(max-width:950px){.language-switcher{margin-left:auto}.language-switcher select{padding:9px 12px}.nav.open + .language-switcher{width:auto}}
 @media(max-width:640px){.language-switcher{order:3;margin-left:0;width:100%;justify-content:center}.language-switcher select{width:100%;max-width:220px;text-align:center}.menu-toggle{order:2}.brand{order:1}.nav{order:4}.header-cta{order:5}}
+
+/* Highly visible Client Portal button in the top header */
+.portal-top-btn{display:inline-flex;align-items:center;justify-content:center;background:linear-gradient(135deg,var(--teal),var(--teal-dark));color:#fff;padding:13px 18px;border-radius:8px;font-size:13px;font-weight:900;text-transform:uppercase;letter-spacing:.05em;box-shadow:0 8px 22px rgba(0,183,201,.28);white-space:nowrap}
+.portal-top-btn:hover{filter:brightness(1.08)}
+@media(max-width:950px){.portal-top-btn{margin-left:auto}.menu-toggle{margin-left:0}}
+@media(max-width:640px){.portal-top-btn{order:2;margin-left:auto;padding:11px 12px;font-size:12px}.menu-toggle{order:3}.brand{order:1}.nav{order:5}.language-switcher{order:4}}
